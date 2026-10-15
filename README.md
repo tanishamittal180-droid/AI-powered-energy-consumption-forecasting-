@@ -1,1 +1,1 @@
-# AI-powered-energy-consumption-forecasting-
+Place screenshots of the running dashboard in this folder, for example dashboard.png, forecast.png, and model-performance.png. Then reference them from README.md.
