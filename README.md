@@ -172,11 +172,13 @@ The project is designed to produce:
 
 Results depend on dataset quality, the forecasting horizon, feature selection, and model performance.
 ## screenshots 
-<img width="1366" height="768" alt="Screenshot 2026-10-14 202708" src="https://github.com/user-attachments/assets/ca5d77ad-4fec-4721-b53b-c65ad29d7e3b" />
-<img width="1366" height="768" alt="Screenshot 2026-10-14 204420" src="https://github.com/user-attachments/assets/da13119a-166b-453b-84cb-43ce0f7b5b0f" />
-<img width="1366" height="768" alt="Screenshot 2026-10-14 204412" src="https://github.com/user-attachments/assets/d4002081-62bc-4507-912c-f64ca6973574" />
-<img width="1366" height="768" alt="Screenshot 2026-10-14 204359" src="https://github.com/user-attachments/assets/24c1c93f-f585-4d4b-b8ed-51bd5028c27e" />
-<img width="1366" height="768" alt="Screenshot 2026-10-14 202719" src="https://github.com/user-attachments/assets/87090e14-abcf-4422-b4b6-a60077a31608" />
+
+<img width="1366" height="768" alt="Screenshot 2026-10-14 204359" src="https://github.com/user-attachments/assets/f09a91dd-dc61-4d2f-887f-d1b1ac70e1d3" />
+
+<img width="1366" height="768" alt="Screenshot 2026-10-14 204412" src="https://github.com/user-attachments/assets/0a2a0621-9b7d-4f1a-87f1-94d97204c523" />
+
+<img width="1366" height="768" alt="Screenshot 2026-10-14 204420" src="https://github.com/user-attachments/assets/131eab29-ce9a-494d-9685-a9dd3bec404a" />
+
 
 ## 🌍 Real-World Applications
 
